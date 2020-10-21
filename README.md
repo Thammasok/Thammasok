@@ -1,1 +1,1 @@
-![image](https://github.com/Thammasok/welcome/blob/main/dino.gif)
+![image](https://github.com/Thammasok/Thammasok/blob/main/dino.gif)
